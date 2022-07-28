@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" id="com.example.helloworld" version="1.0.0">
   <name>Hello Monaca!</name>
-  <description/>
+  <description>Made with Monaca (http://monaca.mobi)</description>
   <author/>
   <content src="index.html"/>
   <access origin="*"/>
@@ -117,4 +117,6 @@
     <preference name="ShowSplashScreen" value="false"/>
   </platform>
   <preference name="MediaTypesRequiringUserActionForPlayback" value="false"/>
+  <preference name="WindowsStorePublisherName" value="My Name"/>
+  <preference name="WindowsStoreIdentityName" value="bd55cbf9-4cea-acee-b5df-196bb65d3443"/>
 </widget>
